@@ -1,6 +1,5 @@
 from abc import ABC
 
-from car import Car
 
 
 class CapuletEngine(ABC):
